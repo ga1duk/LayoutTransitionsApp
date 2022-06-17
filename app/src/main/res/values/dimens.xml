@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stats_view_stroke_width">20dp</dimen>
+    <dimen name="stats_view_text_size">60sp</dimen>
+    <dimen name="stats_view_width">300dp</dimen>
+    <dimen name="stats_view_height">300dp</dimen>
+    <dimen name="stats_view_reduced_width">150dp</dimen>
+    <dimen name="stats_view_reduced_height">150dp</dimen>
+    <dimen name="common_padding">24dp</dimen>
+    <dimen name="small_margin">12dp</dimen>
+</resources>
